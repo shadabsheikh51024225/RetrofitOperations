@@ -32,3 +32,5 @@ FOLLOW THE MAIN ACTIVITY TO START:-
 - mapping and array explained. 
 
 - interface importance in JsonApiHOlder expalined.
+
+- a demonstration from to url encoded    @FormUrlEncoded.
